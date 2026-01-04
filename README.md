@@ -13,6 +13,8 @@
     🎀 I love <b>Knitting, Dogs & Coding</b><br/>
     💌 Ask me about <b>Frontend Development</b>
   </p>
+  <img src="https://komarev.com/ghpvc/?username=sasosulka&color=ffb6c1&style=for-the-badge&label=PROFILE+VIEWS" /> 
+    <br/>
   <h2 style="color: #ffb6c1;">💌 Connect with me</h2>
   <p align="center">
     <a href="https://t.me/saosulka">
