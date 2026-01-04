@@ -31,11 +31,6 @@
     <img src="https://img.shields.io/badge/FIGMA-F06292?style=for-the-badge&logo=figma&logoColor=white" /> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/REACT-F7b0c8?style=for-the-badge&logo=react&logoColor=white" />
   </p>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sasosulka&show_icons=true&locale=en&bg_color=45,ffeef2,ffc0cb&title_color=ff69b4&text_color=5c5c5c&icon_color=ff69b4&hide_border=true" height="150" alt="stats" />
-  </p>
-  <br/>
   <h2 style="color: #ffb6c1;">🏆 My Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=sasosulka&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
 </div>
