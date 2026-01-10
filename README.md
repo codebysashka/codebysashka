@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #ffb6c1;"> Hi there! I'm <span style="color: #ff69b4;">Alexandra</span> 🌸 </h1>
+  <h1 style="color: #ffb6c1;">Hi there! I'm <span style="color: #ff69b4;">Alexandra</span> </h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=22&pause=1000&color=F48FB1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Junior+Frontend+Developer" alt="Typing SVG" />
   </a>
@@ -8,14 +8,14 @@
   <img src="https://i.pinimg.com/originals/c5/40/05/c54005697a69623dc1f4b4ce6df38a19.gif" width="30px">
   <br/>
   <p style="font-size: 16px;">
-    🔭 I’m currently working on <b>My Portfolio</b><br/>
-    🌱 I’m currently learning <b>React & Node.js</b><br/>
-    🎀 I love <b>Knitting, Dogs & Coding</b><br/>
-    💌 Ask me about <b>Frontend Development</b>
+     I’m currently working on <b>My Portfolio</b><br/>
+     I’m currently learning <b>React & Node.js</b><br/>
+     I love <b>Knitting, Dogs & Coding</b><br/>
+     Ask me about <b>Frontend Development</b>
   </p>
-  <img src="https://komarev.com/ghpvc/?username=sasosulka&color=ffb6c1&style=for-the-badge&label=PROFILE+VIEWS" /> 
+  <img src="https://komarev.com/ghpvc/?username=codebysashka&color=ffb6c1&style=for-the-badge&label=PROFILE+VIEWS" /> 
     <br/>
-  <h2 style="color: #ffb6c1;">💌 Connect with me</h2>
+  <h2 style="color: #ffb6c1;">Connect with me</h2>
   <p align="center">
     <a href="https://t.me/saosulka">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=ffb6c1" />
@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffc0cb" />
     </a>
   </p>
-  <h2 style="color: #ffb6c1;">☁️ Tech Stack</h2>
+  <h2 style="color: #ffb6c1;"> Tech Stack</h2>
   <p>
     <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp;&nbsp;
@@ -33,6 +33,11 @@
     <img src="https://img.shields.io/badge/FIGMA-F06292?style=for-the-badge&logo=figma&logoColor=white" /> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/REACT-F7b0c8?style=for-the-badge&logo=react&logoColor=white" />
   </p>
-  <h2 style="color: #ffb6c1;">🏆 My Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=sasosulka&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+  <h2 align="center" style="color: #ffb6c1;">My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=codebysashka&show_icons=true&theme=rose&hide_border=true&title_color=ffb6c1&icon_color=ff69b4&text_color=d1d1d1&bg_color=0b0505" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-re.vercel.app/api/top-langs/?username=codebysashka&layout=compact&theme=rose&hide_border=true&title_color=ffb6c1&text_color=d1d1d1&bg_color=0b0505" alt="Top Languages" />
+</p>
 </div>
