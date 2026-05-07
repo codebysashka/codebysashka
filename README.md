@@ -9,9 +9,8 @@
   <br/>
   <p style="font-size: 16px;">
      I’m currently working on <b>My Portfolio</b><br/>
-     I’m currently learning <b>React & Node.js</b><br/>
      I love <b>Knitting, Dogs & Coding</b><br/>
-     Ask me about <b>Frontend Development</b>
+     Ask me about <b>Anything</b>
   </p>
   <img src="https://komarev.com/ghpvc/?username=codebysashka&color=ffb6c1&style=for-the-badge&label=PROFILE+VIEWS" /> 
     <br/>
